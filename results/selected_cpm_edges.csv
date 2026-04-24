@@ -1,0 +1,191 @@
+edge,roi_i,roi_j,network_i,network_j,pos_selected_folds,neg_selected_folds,total_selected_folds
+5,mPFC,Left Anterior Insula,DMN,SN,5,0,5
+6,mPFC,Right Anterior Insula,DMN,SN,5,0,5
+23,PCC,Left Anterior Insula,DMN,SN,5,0,5
+24,PCC,Right Anterior Insula,DMN,SN,5,0,5
+40,Left Angular,Left Anterior Insula,DMN,SN,5,0,5
+41,Left Angular,Right Anterior Insula,DMN,SN,5,0,5
+56,Right Angular,Left Anterior Insula,DMN,SN,5,0,5
+57,Right Angular,Right Anterior Insula,DMN,SN,5,0,5
+71,Left Hippocampus,Left Anterior Insula,DMN,SN,5,0,5
+72,Left Hippocampus,Right Anterior Insula,DMN,SN,5,0,5
+85,Right Hippocampus,Left Anterior Insula,DMN,SN,5,0,5
+86,Right Hippocampus,Right Anterior Insula,DMN,SN,5,0,5
+55,Right Angular,Right Hippocampus,DMN,DMN,3,0,3
+45,Left Angular,Left IPS,DMN,CEN,0,3,3
+180,Left Auditory,Right Auditory,Sensory,Sensory,0,2,2
+84,Left Hippocampus,Cerebellum,DMN,Other,1,0,1
+144,Left dlPFC,Cerebellum,CEN,Other,1,0,1
+0,mPFC,PCC,DMN,DMN,0,0,0
+1,mPFC,Left Angular,DMN,DMN,0,0,0
+2,mPFC,Right Angular,DMN,DMN,0,0,0
+3,mPFC,Left Hippocampus,DMN,DMN,0,0,0
+4,mPFC,Right Hippocampus,DMN,DMN,0,0,0
+7,mPFC,dACC,DMN,SN,0,0,0
+8,mPFC,Left dlPFC,DMN,CEN,0,0,0
+9,mPFC,Right dlPFC,DMN,CEN,0,0,0
+10,mPFC,Left IPS,DMN,CEN,0,0,0
+11,mPFC,Right IPS,DMN,CEN,0,0,0
+12,mPFC,Left Visual,DMN,Sensory,0,0,0
+13,mPFC,Right Visual,DMN,Sensory,0,0,0
+14,mPFC,Left Auditory,DMN,Sensory,0,0,0
+15,mPFC,Right Auditory,DMN,Sensory,0,0,0
+16,mPFC,Left Motor,DMN,Motor,0,0,0
+17,mPFC,Right Motor,DMN,Motor,0,0,0
+18,mPFC,Cerebellum,DMN,Other,0,0,0
+19,PCC,Left Angular,DMN,DMN,0,0,0
+20,PCC,Right Angular,DMN,DMN,0,0,0
+21,PCC,Left Hippocampus,DMN,DMN,0,0,0
+22,PCC,Right Hippocampus,DMN,DMN,0,0,0
+25,PCC,dACC,DMN,SN,0,0,0
+26,PCC,Left dlPFC,DMN,CEN,0,0,0
+27,PCC,Right dlPFC,DMN,CEN,0,0,0
+28,PCC,Left IPS,DMN,CEN,0,0,0
+29,PCC,Right IPS,DMN,CEN,0,0,0
+30,PCC,Left Visual,DMN,Sensory,0,0,0
+31,PCC,Right Visual,DMN,Sensory,0,0,0
+32,PCC,Left Auditory,DMN,Sensory,0,0,0
+33,PCC,Right Auditory,DMN,Sensory,0,0,0
+34,PCC,Left Motor,DMN,Motor,0,0,0
+35,PCC,Right Motor,DMN,Motor,0,0,0
+36,PCC,Cerebellum,DMN,Other,0,0,0
+37,Left Angular,Right Angular,DMN,DMN,0,0,0
+38,Left Angular,Left Hippocampus,DMN,DMN,0,0,0
+39,Left Angular,Right Hippocampus,DMN,DMN,0,0,0
+42,Left Angular,dACC,DMN,SN,0,0,0
+43,Left Angular,Left dlPFC,DMN,CEN,0,0,0
+44,Left Angular,Right dlPFC,DMN,CEN,0,0,0
+46,Left Angular,Right IPS,DMN,CEN,0,0,0
+47,Left Angular,Left Visual,DMN,Sensory,0,0,0
+48,Left Angular,Right Visual,DMN,Sensory,0,0,0
+49,Left Angular,Left Auditory,DMN,Sensory,0,0,0
+50,Left Angular,Right Auditory,DMN,Sensory,0,0,0
+51,Left Angular,Left Motor,DMN,Motor,0,0,0
+52,Left Angular,Right Motor,DMN,Motor,0,0,0
+53,Left Angular,Cerebellum,DMN,Other,0,0,0
+54,Right Angular,Left Hippocampus,DMN,DMN,0,0,0
+58,Right Angular,dACC,DMN,SN,0,0,0
+59,Right Angular,Left dlPFC,DMN,CEN,0,0,0
+60,Right Angular,Right dlPFC,DMN,CEN,0,0,0
+61,Right Angular,Left IPS,DMN,CEN,0,0,0
+62,Right Angular,Right IPS,DMN,CEN,0,0,0
+63,Right Angular,Left Visual,DMN,Sensory,0,0,0
+64,Right Angular,Right Visual,DMN,Sensory,0,0,0
+65,Right Angular,Left Auditory,DMN,Sensory,0,0,0
+66,Right Angular,Right Auditory,DMN,Sensory,0,0,0
+67,Right Angular,Left Motor,DMN,Motor,0,0,0
+68,Right Angular,Right Motor,DMN,Motor,0,0,0
+69,Right Angular,Cerebellum,DMN,Other,0,0,0
+70,Left Hippocampus,Right Hippocampus,DMN,DMN,0,0,0
+73,Left Hippocampus,dACC,DMN,SN,0,0,0
+74,Left Hippocampus,Left dlPFC,DMN,CEN,0,0,0
+75,Left Hippocampus,Right dlPFC,DMN,CEN,0,0,0
+76,Left Hippocampus,Left IPS,DMN,CEN,0,0,0
+77,Left Hippocampus,Right IPS,DMN,CEN,0,0,0
+78,Left Hippocampus,Left Visual,DMN,Sensory,0,0,0
+79,Left Hippocampus,Right Visual,DMN,Sensory,0,0,0
+80,Left Hippocampus,Left Auditory,DMN,Sensory,0,0,0
+81,Left Hippocampus,Right Auditory,DMN,Sensory,0,0,0
+82,Left Hippocampus,Left Motor,DMN,Motor,0,0,0
+83,Left Hippocampus,Right Motor,DMN,Motor,0,0,0
+87,Right Hippocampus,dACC,DMN,SN,0,0,0
+88,Right Hippocampus,Left dlPFC,DMN,CEN,0,0,0
+89,Right Hippocampus,Right dlPFC,DMN,CEN,0,0,0
+90,Right Hippocampus,Left IPS,DMN,CEN,0,0,0
+91,Right Hippocampus,Right IPS,DMN,CEN,0,0,0
+92,Right Hippocampus,Left Visual,DMN,Sensory,0,0,0
+93,Right Hippocampus,Right Visual,DMN,Sensory,0,0,0
+94,Right Hippocampus,Left Auditory,DMN,Sensory,0,0,0
+95,Right Hippocampus,Right Auditory,DMN,Sensory,0,0,0
+96,Right Hippocampus,Left Motor,DMN,Motor,0,0,0
+97,Right Hippocampus,Right Motor,DMN,Motor,0,0,0
+98,Right Hippocampus,Cerebellum,DMN,Other,0,0,0
+99,Left Anterior Insula,Right Anterior Insula,SN,SN,0,0,0
+100,Left Anterior Insula,dACC,SN,SN,0,0,0
+101,Left Anterior Insula,Left dlPFC,SN,CEN,0,0,0
+102,Left Anterior Insula,Right dlPFC,SN,CEN,0,0,0
+103,Left Anterior Insula,Left IPS,SN,CEN,0,0,0
+104,Left Anterior Insula,Right IPS,SN,CEN,0,0,0
+105,Left Anterior Insula,Left Visual,SN,Sensory,0,0,0
+106,Left Anterior Insula,Right Visual,SN,Sensory,0,0,0
+107,Left Anterior Insula,Left Auditory,SN,Sensory,0,0,0
+108,Left Anterior Insula,Right Auditory,SN,Sensory,0,0,0
+109,Left Anterior Insula,Left Motor,SN,Motor,0,0,0
+110,Left Anterior Insula,Right Motor,SN,Motor,0,0,0
+111,Left Anterior Insula,Cerebellum,SN,Other,0,0,0
+112,Right Anterior Insula,dACC,SN,SN,0,0,0
+113,Right Anterior Insula,Left dlPFC,SN,CEN,0,0,0
+114,Right Anterior Insula,Right dlPFC,SN,CEN,0,0,0
+115,Right Anterior Insula,Left IPS,SN,CEN,0,0,0
+116,Right Anterior Insula,Right IPS,SN,CEN,0,0,0
+117,Right Anterior Insula,Left Visual,SN,Sensory,0,0,0
+118,Right Anterior Insula,Right Visual,SN,Sensory,0,0,0
+119,Right Anterior Insula,Left Auditory,SN,Sensory,0,0,0
+120,Right Anterior Insula,Right Auditory,SN,Sensory,0,0,0
+121,Right Anterior Insula,Left Motor,SN,Motor,0,0,0
+122,Right Anterior Insula,Right Motor,SN,Motor,0,0,0
+123,Right Anterior Insula,Cerebellum,SN,Other,0,0,0
+124,dACC,Left dlPFC,SN,CEN,0,0,0
+125,dACC,Right dlPFC,SN,CEN,0,0,0
+126,dACC,Left IPS,SN,CEN,0,0,0
+127,dACC,Right IPS,SN,CEN,0,0,0
+128,dACC,Left Visual,SN,Sensory,0,0,0
+129,dACC,Right Visual,SN,Sensory,0,0,0
+130,dACC,Left Auditory,SN,Sensory,0,0,0
+131,dACC,Right Auditory,SN,Sensory,0,0,0
+132,dACC,Left Motor,SN,Motor,0,0,0
+133,dACC,Right Motor,SN,Motor,0,0,0
+134,dACC,Cerebellum,SN,Other,0,0,0
+135,Left dlPFC,Right dlPFC,CEN,CEN,0,0,0
+136,Left dlPFC,Left IPS,CEN,CEN,0,0,0
+137,Left dlPFC,Right IPS,CEN,CEN,0,0,0
+138,Left dlPFC,Left Visual,CEN,Sensory,0,0,0
+139,Left dlPFC,Right Visual,CEN,Sensory,0,0,0
+140,Left dlPFC,Left Auditory,CEN,Sensory,0,0,0
+141,Left dlPFC,Right Auditory,CEN,Sensory,0,0,0
+142,Left dlPFC,Left Motor,CEN,Motor,0,0,0
+143,Left dlPFC,Right Motor,CEN,Motor,0,0,0
+145,Right dlPFC,Left IPS,CEN,CEN,0,0,0
+146,Right dlPFC,Right IPS,CEN,CEN,0,0,0
+147,Right dlPFC,Left Visual,CEN,Sensory,0,0,0
+148,Right dlPFC,Right Visual,CEN,Sensory,0,0,0
+149,Right dlPFC,Left Auditory,CEN,Sensory,0,0,0
+150,Right dlPFC,Right Auditory,CEN,Sensory,0,0,0
+151,Right dlPFC,Left Motor,CEN,Motor,0,0,0
+152,Right dlPFC,Right Motor,CEN,Motor,0,0,0
+153,Right dlPFC,Cerebellum,CEN,Other,0,0,0
+154,Left IPS,Right IPS,CEN,CEN,0,0,0
+155,Left IPS,Left Visual,CEN,Sensory,0,0,0
+156,Left IPS,Right Visual,CEN,Sensory,0,0,0
+157,Left IPS,Left Auditory,CEN,Sensory,0,0,0
+158,Left IPS,Right Auditory,CEN,Sensory,0,0,0
+159,Left IPS,Left Motor,CEN,Motor,0,0,0
+160,Left IPS,Right Motor,CEN,Motor,0,0,0
+161,Left IPS,Cerebellum,CEN,Other,0,0,0
+162,Right IPS,Left Visual,CEN,Sensory,0,0,0
+163,Right IPS,Right Visual,CEN,Sensory,0,0,0
+164,Right IPS,Left Auditory,CEN,Sensory,0,0,0
+165,Right IPS,Right Auditory,CEN,Sensory,0,0,0
+166,Right IPS,Left Motor,CEN,Motor,0,0,0
+167,Right IPS,Right Motor,CEN,Motor,0,0,0
+168,Right IPS,Cerebellum,CEN,Other,0,0,0
+169,Left Visual,Right Visual,Sensory,Sensory,0,0,0
+170,Left Visual,Left Auditory,Sensory,Sensory,0,0,0
+171,Left Visual,Right Auditory,Sensory,Sensory,0,0,0
+172,Left Visual,Left Motor,Sensory,Motor,0,0,0
+173,Left Visual,Right Motor,Sensory,Motor,0,0,0
+174,Left Visual,Cerebellum,Sensory,Other,0,0,0
+175,Right Visual,Left Auditory,Sensory,Sensory,0,0,0
+176,Right Visual,Right Auditory,Sensory,Sensory,0,0,0
+177,Right Visual,Left Motor,Sensory,Motor,0,0,0
+178,Right Visual,Right Motor,Sensory,Motor,0,0,0
+179,Right Visual,Cerebellum,Sensory,Other,0,0,0
+181,Left Auditory,Left Motor,Sensory,Motor,0,0,0
+182,Left Auditory,Right Motor,Sensory,Motor,0,0,0
+183,Left Auditory,Cerebellum,Sensory,Other,0,0,0
+184,Right Auditory,Left Motor,Sensory,Motor,0,0,0
+185,Right Auditory,Right Motor,Sensory,Motor,0,0,0
+186,Right Auditory,Cerebellum,Sensory,Other,0,0,0
+187,Left Motor,Right Motor,Motor,Motor,0,0,0
+188,Left Motor,Cerebellum,Motor,Other,0,0,0
+189,Right Motor,Cerebellum,Motor,Other,0,0,0
