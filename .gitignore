@@ -1,11 +1,18 @@
+# Virtual environment
 .venv/
+
+# Python cache
 __pycache__/
 .ipynb_checkpoints/
 
-data/raw/
-data/processed/
+# Data (VERY IMPORTANT)
+data/*
+!data/.gitkeep
+
+# Neuroimaging files
 *.nii
 *.nii.gz
 *.npy
 
+# OS junk
 .DS_Store
